@@ -1,0 +1,4 @@
+"return_id","timestamp","info","agency_id","filename"
+1,"2024-03-09 18:37:03.624622-05","File rejected, lead report will be generated","45678901234","123451234-1040.zip"
+1,"2024-03-09 18:34:30.079838-05","HOLD:Firm ID client ID and one or more RTN both changed from prior year","45678901234","123451234-1040.zip"
+2,"2024-03-09 18:37:37.812581-05","HOLD:client ID and one or more RTN both changed from prior year","45678901235","123451235-1040.zip"
